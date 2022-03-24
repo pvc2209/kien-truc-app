@@ -1,0 +1,11 @@
+C:\Users\pvc\Desktop\KienTrucApp\bin\Debug\KienTrucApp.exe.config
+C:\Users\pvc\Desktop\KienTrucApp\bin\Debug\KienTrucApp.exe
+C:\Users\pvc\Desktop\KienTrucApp\bin\Debug\KienTrucApp.pdb
+C:\Users\pvc\Desktop\KienTrucApp\obj\Debug\KienTrucApp.csproj.AssemblyReference.cache
+C:\Users\pvc\Desktop\KienTrucApp\obj\Debug\KienTrucApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\pvc\Desktop\KienTrucApp\obj\Debug\KienTrucApp.QLKhachHangView.resources
+C:\Users\pvc\Desktop\KienTrucApp\obj\Debug\KienTrucApp.Properties.Resources.resources
+C:\Users\pvc\Desktop\KienTrucApp\obj\Debug\KienTrucApp.csproj.GenerateResource.cache
+C:\Users\pvc\Desktop\KienTrucApp\obj\Debug\KienTrucApp.csproj.CoreCompileInputs.cache
+C:\Users\pvc\Desktop\KienTrucApp\obj\Debug\KienTrucApp.exe
+C:\Users\pvc\Desktop\KienTrucApp\obj\Debug\KienTrucApp.pdb
